@@ -9,38 +9,12 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>7f2c1a4d-89de-4f88-bf2a-3e1190b3eaa1</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>45d87884-301d-4de3-a71e-243a24358ca7</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>3c2ac773-d18f-4df3-8934-efa8b3f7adde</variableId>
+      <variableId>e68583b6-7540-405e-96be-fb7db11ecab5</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>7f2c1a4d-89de-4f88-bf2a-3e1190b3eaa1</id>
-      <masked>false</masked>
-      <name>Username</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>45d87884-301d-4de3-a71e-243a24358ca7</id>
-      <masked>false</masked>
-      <name>Password</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>3c2ac773-d18f-4df3-8934-efa8b3f7adde</id>
+      <id>e68583b6-7540-405e-96be-fb7db11ecab5</id>
       <masked>false</masked>
       <name>Facility</name>
    </variable>

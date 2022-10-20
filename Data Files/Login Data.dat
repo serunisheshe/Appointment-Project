@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Login Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>8e206e7d-96af-486b-adc1-ad681ab609e7</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM Hongkong+CURA+Healthcare+Center</data>
+   <data>John+Doe null Tokyo+CURA+Healthcare+Center</data>
+   <data>null g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM Tokyo+CURA+Healthcare+Center</data>
+   <data>John+Doe fbjldnLIEDJkedjn383894713 Tokyo+CURA+Healthcare+Center</data>
+   <data>John+Dae g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM Tokyo+CURA+Healthcare+Center</data>
+   <data>null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Username</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Password</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Facility</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

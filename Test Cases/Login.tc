@@ -17,6 +17,12 @@
       <value></value>
       <variableId>d4da65e0-3578-4d96-8711-c7d48b053b4d</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5ba559c-e26a-4e9d-b4a2-5145e72b2564</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
@@ -30,5 +36,12 @@
       <id>d4da65e0-3578-4d96-8711-c7d48b053b4d</id>
       <masked>false</masked>
       <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5ba559c-e26a-4e9d-b4a2-5145e72b2564</id>
+      <masked>false</masked>
+      <name>Facility</name>
    </variable>
 </TestCaseEntity>

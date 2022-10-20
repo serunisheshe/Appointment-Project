@@ -29,3 +29,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
+if (WebUI.verifyTextPresent('Facility', false, FailureHandling.OPTIONAL)) {
+    WebUI.callTestCase(findTestCase('Make Appointment'), [('Facility') : Facility], FailureHandling.OPTIONAL)
+} else {
+    WebUI.closeBrowser()
+}
+

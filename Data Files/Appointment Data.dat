@@ -8,22 +8,12 @@
    <dataFileGUID>095f810a-f364-4500-972c-4dbd080b54ac</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>Tokyo+CURA+Healthcare+Center John+Dae g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
-   <data>Hongkong+CURA+Healthcare+Center John+Dae g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
-   <data>Seoul+CURA+Healthcare+Center John+Dae g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
+   <data>Tokyo+CURA+Healthcare+Center</data>
+   <data>Hongkong+CURA+Healthcare+Center</data>
+   <data>Seoul+CURA+Healthcare+Center</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>Facility</name>
-      <size>3</size>
-   </internalDataColumns>
-   <internalDataColumns>
-      <columnIndex>1</columnIndex>
-      <name>Username</name>
-      <size>3</size>
-   </internalDataColumns>
-   <internalDataColumns>
-      <columnIndex>2</columnIndex>
-      <name>Password</name>
       <size>3</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
